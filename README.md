@@ -136,18 +136,14 @@ class AhmedDlshad:
 
 <div align="center">
 
-<!-- EDIT: replace the handle/URL in each href below with your real links -->
 <a href="https://linkedin.com/in/ahmed-dlshad">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://x.com/AhmedDlshad007">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+<a href="https://ahmed-dlshad-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
 </a>
-<a href="mailto:ahmad.payment123@gmail.com">
+<a href="mailto:ahmed.dlshad.m@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://github.com/AhmedDlshad007">
-  <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=githubpages&logoColor=black" alt="portfolio" />
 </a>
 
 </div>
