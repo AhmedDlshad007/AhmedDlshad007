@@ -25,25 +25,13 @@
 <!-- ============================ ABOUT ============================ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```python
-class AhmedDlshad:
-    def __init__(self):
-        self.role        = "AI & ML Engineer"
-        self.languages   = ["Python", "TypeScript", "JavaScript"]
-        self.focus       = ["LLM apps", "RAG systems", "AI agents", "Automation"]
-        self.currently   = "Building AI-powered tools that solve real problems"
-        self.learning    = ["Agentic workflows", "MLOps", "System design"]
-        self.fun_fact    = "I let AI write the boilerplate so I can focus on the hard parts"
+Hi, I'm **Ahmed** — a **Full-Stack & Agentic AI Engineer** in **Sulaymaniyah, Iraq**. I've built production AI systems for Swiss tech companies (remote) — most recently **Companion**, an agent that drives a real browser, filesystem, and Gmail — and I'm now focused on building and shipping my own AI products.
 
-    def say_hi(self):
-        print("Thanks for visiting — let's build something intelligent! 🚀")
-```
-
-- 🤖 I build **intelligent agents, RAG systems, and AI-powered tools**
-- 🧠 Comfortable across the stack — **Python** for the AI/ML core, **TypeScript/React** for the interface
-- 🔭 Currently turning my project ideas into polished, shippable products
-- 🌱 Always leveling up on **agentic workflows, MLOps, and system design**
-- 💬 Ask me about **LLMs, RAG, prompt engineering, or building AI apps end-to-end**
+- 🧩 Built **Companion**, an agentic desktop controller on the **Model Context Protocol (MCP)** — it lets an LLM control a browser, read the local filesystem, and handle Gmail, then chain those into real cross-app workflows.
+- 🔀 Made it model-agnostic with **OpenRouter** routing: one interface that reaches any LLM and picks the right model for the task.
+- 🛠️ Shipped **Wathifa** end-to-end, solo — a job-matching platform (**React · Node · Stripe · AWS S3**) connecting MENA-region employers with international candidates.
+- 🌍 I speak **Kurdish, Arabic, and English**, and I gravitate to problems where the AI part *and* the product part both have to actually work.
+- 💬 Ask me about **agentic systems, MCP, RAG, or shipping full-stack AI products.**
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
