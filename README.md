@@ -92,11 +92,17 @@ class AhmedDlshad:
 </div>
 
 <!-- ============================ TROPHIES ============================ -->
+<!--
+  NOTE: The public github-profile-trophy service was DOWN (over quota) when this
+  was set up, so the section is disabled to avoid a broken image on your profile.
+  To re-enable later, just delete this comment wrapper (the `<!- -` and `- ->`):
+
 ## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AhmedDlshad007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
+-->
 
 <!-- ============================ ACTIVITY GRAPH ============================ -->
 ## 📈 Contribution Activity
@@ -141,7 +147,7 @@ class AhmedDlshad:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 </div>
 
 <!-- ============================ FOOTER ============================ -->
