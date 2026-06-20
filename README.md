@@ -1,14 +1,12 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  Ahmed Dlshad — GitHub profile README                        ║
-  ║  Edit the lines marked  <!-- EDIT -->  to personalize.       ║
-  ╚══════════════════════════════════════════════════════════════╝
+  Ahmed Dlshad - GitHub profile README
+  To personalize: search this file for the word EDIT and replace the links there.
 -->
 
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=200&section=header&text=Ahmed%20Dlshad&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20Engineer&descSize=20&descAlignY=58" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=200&section=header&text=Ahmed%20Dlshad&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20Engineer&descSize=20&descAlignY=58" alt="Ahmed Dlshad - AI & ML Engineer" />
 
 <a href="https://github.com/AhmedDlshad007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Building+intelligent+agents+%F0%9F%A4%96;RAG+%7C+LLM+apps+%7C+Automation;Turning+ideas+into+AI+products;Always+shipping%2C+always+learning" alt="Typing SVG" />
