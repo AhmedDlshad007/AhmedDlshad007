@@ -20,6 +20,8 @@
 
 </div>
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
 <!-- ============================ ABOUT ============================ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -43,37 +45,40 @@ class AhmedDlshad:
 - 🌱 Always leveling up on **agentic workflows, MLOps, and system design**
 - 💬 Ask me about **LLMs, RAG, prompt engineering, or building AI apps end-to-end**
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
 <!-- ============================ TECH STACK ============================ -->
 ## 🛠️ Tech Stack
 
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="languages" />
-</p>
+<div align="center">
 
-#### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ai-ml" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" />
-</p>
+**Languages**
 
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="frontend" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="languages" />
 
-#### Backend & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,mongodb,redis" alt="backend" />
-</p>
+**AI / ML**
 
-#### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode,postman" alt="tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ai-ml" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="frontend" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,mongodb,redis" alt="backend" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode,postman" alt="tools" />
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
 <!-- ============================ STATS ============================ -->
 ## 📊 GitHub Stats
@@ -89,11 +94,13 @@ class AhmedDlshad:
 
 </div>
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
 <!-- ============================ TROPHIES ============================ -->
 <!--
   NOTE: The public github-profile-trophy service was DOWN (over quota) when this
   was set up, so the section is disabled to avoid a broken image on your profile.
-  To re-enable later, just delete this comment wrapper (the `<!- -` and `- ->`):
+  To re-enable later, just delete this comment wrapper (the opening and closing comment tags):
 
 ## 🏆 Trophies
 
@@ -109,6 +116,8 @@ class AhmedDlshad:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDlshad007&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </div>
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
 <!-- ============================ SNAKE ============================ -->
 ## 🐍 Watch My Contributions Get Eaten
 
@@ -119,6 +128,8 @@ class AhmedDlshad:
     <img alt="snake animation" src="https://raw.githubusercontent.com/AhmedDlshad007/AhmedDlshad007/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
 <!-- ============================ CONNECT ============================ -->
 ## 🤝 Connect With Me
@@ -156,4 +167,3 @@ class AhmedDlshad:
 </div>
 
 <!-- profile README -->
-
