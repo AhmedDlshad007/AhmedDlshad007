@@ -25,13 +25,17 @@
 <!-- ============================ ABOUT ============================ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Hi, I'm **Ahmed** — a **Full-Stack & Agentic AI Engineer** in **Sulaymaniyah, Iraq**. I've built production AI systems for Swiss tech companies (remote) — most recently **Companion**, an agent that drives a real browser, filesystem, and Gmail — and I'm now focused on building and shipping my own AI products.
+Hi, I'm Ahmed, a software engineer based in Sulaymaniyah, Iraq. I build web applications end to end, from the interface people click on down to the APIs, databases and servers behind them.
 
-- 🧩 Built **Companion**, an agentic desktop controller on the **Model Context Protocol (MCP)** — it lets an LLM control a browser, read the local filesystem, and handle Gmail, then chain those into real cross-app workflows.
-- 🔀 Made it model-agnostic with **OpenRouter** routing: one interface that reaches any LLM and picks the right model for the task.
-- 🛠️ Shipped **Wathifa** end-to-end, solo — a job-matching platform (**React · Node · Stripe · AWS S3**) connecting MENA-region employers with international candidates.
-- 🌍 I speak **Kurdish, Arabic, and English**, and I gravitate to problems where the AI part *and* the product part both have to actually work.
-- 💬 Ask me about **agentic systems, MCP, RAG, or shipping full-stack AI products.**
+Most of what I do is full-stack. React and Next.js on the front end, Node and Python on the back, plus the unglamorous parts that keep software running: REST APIs, SQL databases, authentication, payments and deployment on AWS, Docker and Vercel. Some of my recent projects involve AI and agents, but that's one area I work in, not the whole story.
+
+A few things I've built:
+
+- **Wathifa**: a job-matching platform I built solo, front to back, with employer dashboards, candidate scoring, Stripe payments and document storage on AWS S3.
+- **Companion**: a desktop assistant that can control a browser, read the local file system and manage Gmail to handle repetitive tasks.
+- A bunch of smaller tools and side projects, usually started just to figure out how something worked.
+
+What I like most is taking an idea from an empty repo to something people can actually use. Have a look around, my projects and links are below.
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
